@@ -31,9 +31,9 @@ After that, open `http://localhost:8080` in your browser.
 
 # Dependencies
 
-- ORM illuminate/database
-- JWT firebase/php-jwt
-- ENV vlucas/phpdotenv
+- [ORM illuminate/database](https://packagist.org/packages/illuminate/database)
+- [JWT firebase/php-jwt](https://packagist.org/packages/firebase/php-jwt)
+- [ENV vlucas/phpdotenv](https://packagist.org/packages/vlucas/phpdotenv)
 
 ## Stay in touch
 
