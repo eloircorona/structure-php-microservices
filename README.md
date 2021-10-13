@@ -2,7 +2,7 @@
 
 ## DO NOT PUSH HERE
 
-If you want to create an Menita App service just clone the repo and create new one for your development.
+If you want to create a PHP Microservice just clone the repo and create new one for your development.
 
 ### Slim Framework 4
 
@@ -37,6 +37,4 @@ After that, open `http://localhost:8080` in your browser.
 
 ## Stay in touch
 
-- Author - COPYRIGHT ©2021 MenitaLabs
-
-  - [Eloir Corona](https://eloircorona.com)
+- [Eloir Corona](https://eloircorona.com)
