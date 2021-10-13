@@ -1,4 +1,4 @@
-# App Menita Structure Service
+# Structure Microservice
 
 ## DO NOT PUSH HERE
 
