@@ -1,9 +1,22 @@
+# Env
 .env
+.env.production
 
+# Editors
 .idea/
 .vscode/
-/coverage/
-/vendor/
+
+# Test
+**/coverage
+
+# Vendor
+/vendor
+
+# Logs
 /logs/*
 !/logs/README.md
-.phpunit.result.cache
+
+# Docker
+**/mysql_data
+*.yaml
+*.yml
