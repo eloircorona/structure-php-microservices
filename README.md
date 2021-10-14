@@ -23,9 +23,10 @@ To run the application in development, you can run this commands
 composer start
 ```
 
-Or you can use `docker-compose` to run the app with `docker`, so you can run these commands:
+Or you can use `docker` to build the image and run the container, so you can run these commands:
 ```bash
-docker-compose up -d
+docker build . -f .\docker\local\Dockerfile -t php-microservice-structure
+docker run -d -p 8001:80 php-microservice-structure --name php-microservice-structure
 ```
 After that, open `http://localhost:8080` in your browser.
 
